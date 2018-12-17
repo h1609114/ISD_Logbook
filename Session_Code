@@ -1,0 +1,20 @@
+#Session 3 task 1
+
+num1 = float(input("enter first number "))
+num2 = float (input("enter second number "))
+sum = (num1+num2)
+print(sum)
+
+#session 4 task 5
+
+#session 4 task 8
+
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+print("Hello",name, ",next year you will be ", age+1, "years old!")
+
+#session 4 task 9 
+
+radius = 2
+area = 12.5678
+print("radius \t%.2f" %radius, "\narea = \t\t{:.2f}".format(area))
